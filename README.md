@@ -47,4 +47,5 @@ how to send multiple messages on telegram how to send mass messages on telegram 
 telegram mass dm
 telegram spam bot
 telegram spammer
+telegram marketing
 
