@@ -49,3 +49,4 @@ telegram spam bot
 telegram spammer
 telegram marketing
 GUI interface
+telegram mailer bot
