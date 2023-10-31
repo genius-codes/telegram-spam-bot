@@ -50,3 +50,4 @@ telegram spammer
 telegram marketing
 GUI interface
 telegram mailer bot
+telegram bulk dm
