@@ -52,3 +52,4 @@ GUI interface
 telegram mailer bot
 telegram bulk dm
 tg bulk message
+telegram spam bot
